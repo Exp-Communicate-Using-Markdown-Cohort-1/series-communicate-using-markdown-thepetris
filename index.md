@@ -6,3 +6,7 @@
 ```
 print("Hello world!")
 ```
+
+- [x] Learn how to use Markdown
+- [ ] Learn how to use GitHub
+- [ ] Use GitHub and Markdown regularly
